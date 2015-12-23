@@ -1,0 +1,15 @@
+---
+title: Data
+subtitle: 
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: 
+thumbnail: 
+alt: 
+project-date: 
+client: 
+category: 
+description: A fellow focused on data-informed development, critical data analysis and implementation, or data-centric technological development that will further the ability of member organizations to create powerful visualizations with their content, gain answers to critical storage and access questions, and address intellectual property rights, re-use, and privacy issues.
+
+---
