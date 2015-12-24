@@ -266,15 +266,15 @@ header {
     text-align: center;
     color: #fff;
     border-top:12px solid #ff00ff;
-    background-color: #202020;
+    /*background-color: #202020;*/
     background-attachment: scroll;
-    /*background-image: url(img/header-bg.jpg);
+    background-image: url(img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;*/
+    -o-background-size: cover;
 }
 
 header .intro-text {
