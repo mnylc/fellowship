@@ -262,6 +262,8 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+
+
 header {
     text-align: center;
     color: #fff;
@@ -278,8 +280,8 @@ header {
 }
 
 header .intro-text {
-    padding-top: 28px;
-    padding-bottom: 30px;
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 
 header .intro-text .intro-lead-in {
@@ -294,15 +296,15 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 30px;
+    font-size: 50px;
     font-weight: 700;
     line-height: 50px;
 }
 
 @media(min-width:768px) {
     header .intro-text {
-        /*padding-top: 120px;*/
-        padding-bottom: 40px;
+        padding-top: 300px;
+        padding-bottom: 200px;
     }
 
     header .intro-text .intro-lead-in {
@@ -317,11 +319,12 @@ header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 40px;
+        font-size: 75px;
         font-weight: 700;
-        line-height: 50px;
+        line-height: 75px;
     }
 }
+
 
 section {
     padding: 40px 0;
